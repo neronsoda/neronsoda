@@ -1,5 +1,11 @@
-## Hi there 👋
+<h2> 📖 Open Source Contributions </h2>
 
+### [junit-framework](https://github.com/junit-team/junit-framework)<br/>
+
+#### 1. Use PreconditionAssertions wherever feasible
+   
+- Issue: https://github.com/junit-team/junit-framework/issues/4943
+- PR   : https://github.com/junit-team/junit-framework/pull/5019
 <!--
 **neronsoda/neronsoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
